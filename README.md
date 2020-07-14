@@ -12,3 +12,4 @@ Knowledge Graph was made in the process of self-study.
 2. [Chapter5 Pandas基础](https://www.cnblogs.com/jyroy/p/13276486.html "Blog"). 
 3. [Chapter6 数据载入、存储及文件格式](https://www.cnblogs.com/jyroy/p/13286053.html "Blog"). 
 4. [Chapter7 数据清洗与准备](https://www.cnblogs.com/jyroy/p/13290803.html "Blog"). 
+4. [Chapter8 数据规整：连接、联合与重塑](https://www.cnblogs.com/jyroy/p/13298013.html "Blog"). 
