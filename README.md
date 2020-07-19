@@ -15,3 +15,4 @@ Knowledge Graph was made in the process of self-study.
 5. [Chapter8 数据规整：连接、联合与重塑](https://www.cnblogs.com/jyroy/p/13298013.html "Blog"). 
 6. [Chapter9 绘图和可视化](https://www.cnblogs.com/jyroy/p/13308720.html "Blog"). 
 7. [Chapter10 数据聚合与分组操作](https://www.cnblogs.com/jyroy/p/13332756.html "Blog"). 
+7. [Chapter11 时间序列](https://www.cnblogs.com/jyroy/p/13341244.html "Blog"). 
