@@ -17,3 +17,4 @@ Knowledge Graph was made in the process of self-study.
 7. [Chapter10 数据聚合与分组操作](https://www.cnblogs.com/jyroy/p/13332756.html "Blog"). 
 8. [Chapter11 时间序列](https://www.cnblogs.com/jyroy/p/13341244.html "Blog"). 
 9. [Chapter12 高阶Pandas](https://www.cnblogs.com/jyroy/p/13353542.html "Blog").
+10. [附录A 高阶NumPy](https://www.cnblogs.com/jyroy/p/13399459.html "Blog").
